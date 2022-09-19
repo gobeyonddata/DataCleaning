@@ -1,4 +1,5 @@
-# How to clean Data 
+# How to clean Data in Excel
 
-#### I love data
+#### Format it neatly
+     Delete Blank Rows
 
